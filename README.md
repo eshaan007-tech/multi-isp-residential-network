@@ -103,9 +103,9 @@ The design includes 3 ISP junctions (two ACT, one Airtel), 10 houses with isolat
 
 ---
 
-## 📁 Repository structure
-multi-isp-residential-network/
-├── Multi-ISP_Residential_Network.pkt   # Packet Tracer file
-├── ISP Topology.png                     # Network diagram
-├── README.md                            # Main documentation
-└── detailed-ip-tables.md                # Full IP addressing tables
+## 📁 Repository Structure
+
+- `Multi-ISP_Residential_Network.pkt` – Main Packet Tracer file
+- `ISP Topology.png` – Network topology diagram
+- `README.md` – Project overview (this file)
+- `detailed-ip-tables.md` – Full WAN/LAN IP tables
