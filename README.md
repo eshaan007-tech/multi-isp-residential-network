@@ -1,11 +1,10 @@
-VLAN-based segmentation
 # 🏘 Multi-ISP Residential Network Design
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Simulation](https://img.shields.io/badge/Cisco-Packet_Tracer-1ba0d7)
 ![Networking](https://img.shields.io/badge/Networking-Multi--ISP-blue)
 
-![Network Topology](./https://github.com/eshaan007-tech/multi-isp-residential-network/blob/main/ISP%20Topology.png)
+![Network Topology](https://raw.githubusercontent.com/eshaan007-tech/multi-isp-residential-network/main/ISP%20Topology.png)
 
 ---
 
@@ -105,4 +104,8 @@ The design includes 3 ISP junctions (two ACT, one Airtel), 10 houses with isolat
 ---
 
 ## 📁 Repository structure
-
+multi-isp-residential-network/
+├── Multi-ISP_Residential_Network.pkt   # Packet Tracer file
+├── ISP Topology.png                     # Network diagram
+├── README.md                            # Main documentation
+└── detailed-ip-tables.md                # Full IP addressing tables
