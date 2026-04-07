@@ -5,7 +5,7 @@ VLAN-based segmentation
 ![Simulation](https://img.shields.io/badge/Cisco-Packet_Tracer-1ba0d7)
 ![Networking](https://img.shields.io/badge/Networking-Multi--ISP-blue)
 
-![Network Topology](./ISPToplogy.png)
+![Network Topology](./https://github.com/eshaan007-tech/multi-isp-residential-network/blob/main/ISP%20Topology.png)
 
 ---
 
